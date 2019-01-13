@@ -1,4 +1,4 @@
 # hello_world
 refresher.
 
-I am from the moon.
+The sky is blue.
